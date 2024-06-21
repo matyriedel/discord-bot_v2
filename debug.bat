@@ -1,0 +1,2 @@
+start DiscordPlayerCountBot.exe
+PAUSE
