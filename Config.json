@@ -1,14 +1,14 @@
 {
   "ServerInformation": [
     {
-      "Name": "Ob7 Deathmatch",
-      "Address": "200.85.110.29:27018", // <- Acá la ip.
-      "Token": "MTAzNDEyNTE2NzI4ODM5Mzc2OQ.GkwO22.VpS3NS_apd1L1TWSQs_C03J4UHQT1uBd80rkjU", // <- Acá El token del BOT.
+      "Name": "",
+      "Address": "", // <- Acá la ip.
+      "Token": "", // <- Acá El token del BOT.
       "Status": 0,
       "UseNameAsLabel": false,
       "ChannelID": null
     }
   ],
   "UpdateTime": 30,
-  "SteamAPIKey": "0611969D769CA2450045A583C967688A" // <- Acá el API de STEAM que usa el Server.
+  "SteamAPIKey": "" // <- Acá el API de STEAM que usa el Server.
 }
